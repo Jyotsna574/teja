@@ -1,0 +1,72 @@
+.nav {
+    overflow: hidden;
+    box-sizing: border-box;
+    width: auto;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: transparent;
+    margin-right: 5vw;
+  }
+  
+    
+  .nav-items {
+    list-style: none;
+    display: flex;
+  }
+  
+  .img
+  {
+    width: 20vh;
+    display: flex;
+    margin-top: 3vh;
+  
+    justify-content: center;
+    align-items: center;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+  
+  .nav-items li {
+    padding: 5vh;
+  font-size: 1.25vw;
+  
+  text-decoration: none;
+  color: #909294;
+  }
+  
+  .home :hover{
+    font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2vh;
+  
+  /* identical to box height */
+  
+  text-decoration-line: underline;
+  }
+  
+  .button
+  {
+   
+  background: #178EDC;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 1.5vh;
+  
+  }
+  .button li{
+    padding: 0%;
+  }
+  .button h3{
+    color: aliceblue;
+    height: 100%;
+    padding-left: 2vh;
+    padding-right: 2vh;
+  
+  }
+  .nav-items :hover 
+  {
+    color: #178EDC;
+    text-decoration: underline;
+  }
+  

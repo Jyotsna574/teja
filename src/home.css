@@ -1,0 +1,57 @@
+.Body{
+    color: rgb(222, 220, 220);
+}
+/* V I S H N U */
+
+.vishnu
+{
+    margin-left: 10vh;
+
+font-family: 'PT Sans Narrow';
+font-style: normal;
+font-weight: 700;
+font-size: 5vw;
+
+color: #353737;
+
+
+}
+/* Hello, I’m */
+.hello
+{
+margin-left: 10vh;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 3vw;
+
+color: #465156;
+
+}
+
+/* full-stack developer with 1 year experience designing, and developing applications and websites. */
+
+.full-stack
+{
+    margin-left: 10vh;
+
+    font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5vw;
+
+color: #909294;
+}
+.vishnu p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.hello p{
+    margin-top: 20vh;
+    margin-bottom: 0;
+}
+.full-stack p{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 70vh;
+}

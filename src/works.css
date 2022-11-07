@@ -1,0 +1,11 @@
+.works{
+    background-color: white;
+
+}
+.work-cards{
+    display: flex;
+    flex-direction: row;
+}
+.frontend, .backend, .android{
+    background-color: green;
+}
