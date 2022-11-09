@@ -46,23 +46,27 @@
   text-decoration-line: underline;
   }
   
-  .button
+  .letstalk
   {
    
   background: #178EDC;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-color: transparent;
   border-radius: 1.5vh;
   
   }
-  .button li{
+  .letstalk li{
     padding: 0%;
   }
-  .button h3{
+  .letstalk h3{
     color: aliceblue;
     height: 100%;
     padding-left: 2vh;
     padding-right: 2vh;
   
+  }
+  .letstalk :hover{
+    color: black;
   }
   .nav-items :hover 
   {

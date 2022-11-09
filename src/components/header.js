@@ -17,8 +17,8 @@ function Header() {
                       <li><a>Works</a></li>
                       <li><a>About me</a></li>
                       </ul>
-                    <div className='button' ><h3>LET'S TALK</h3>
-                      </div>
+                    <button className='letstalk'><h3>LET'S TALK</h3>
+                      </button>
               </nav>
           </header>
       )

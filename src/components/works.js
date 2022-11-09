@@ -1,4 +1,6 @@
 import React from 'react'
+import '../works.css'
+
 
 
 function Works() {
@@ -15,4 +17,4 @@ function Works() {
      );
     }
     
-    export default Home;
+    export default Works;

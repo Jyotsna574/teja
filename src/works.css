@@ -1,6 +1,14 @@
 .works{
     background-color: white;
+    margin-left: 20vh;
+}
+.works h1{
+    font-family: 'PT Sans Narrow';
+font-style: normal;
+font-weight: 700;
+font-size: 5vw;
 
+color: #353737;
 }
 .work-cards{
     display: flex;
