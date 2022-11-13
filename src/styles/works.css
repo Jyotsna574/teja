@@ -1,0 +1,30 @@
+.works{
+    background-color: white;
+    margin-left: 20vh;
+
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+.Myworks{
+    margin-left: 10vh;
+    font-family: 'PT Sans';
+    font-size: 5vw;
+    font-style: bold ;
+    text-align: center;
+    color: #353737;
+    margin-bottom: 15vh;
+}
+.work-cards{
+    font-family: 'PT Sans Narrow';
+    display: flex;
+    flex-direction: row;
+    margin-left: 15vh;
+
+}
+.frontend, .backend, .android{
+    font-family: 'PT Sans Narrow';
+    background-color: white;
+    padding-right: 8vw;
+    padding-left: 8vw;
+    margin-bottom: 30vh;
+}

@@ -1,12 +1,12 @@
 import React from 'react'
-import '../works.css'
+
 
 
 
 function Works() {
     return (
       <div className='Works'>
-          <h1> My works</h1>
+          <div className='Myworks'> My works</div>
           <div className='work-cards'>
             <div className='Frontend'> <img src="image.png"></img><h1> Frontend Development </h1> <h2>Proficient in html, css and javascript </h2></div>
             <div className='backend'>  <img src="image.png"></img><h1> Backend Development </h1> <h2>Proficient in html, css and javascript </h2></div>
